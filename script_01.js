@@ -43,7 +43,7 @@ const txt =     "Ich bin " + person.firstName + " " +
 // Tiefer, tiefer - Irgendwo in der Tiefe gibt es ein Licht // K.Bush
 // Der Baikalsee ist mit 1642m der tiefste See der Erde. ...
 // deep - deeper - deepest
-// Nested Objects: {{{{{}}}}}
+// Nested Objects: {{{{{}}}}} Ein Objekt, in einem Objekt, in einem Objekt...
 
 const baikal ={
                 value:"10m",
